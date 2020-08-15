@@ -1,0 +1,13 @@
+P:\Projetos .NET\RestSharp-ViaCEP\RestSharp-e-CSharp\ConsultaAPIViaCEP\bin\Debug\ConsultaAPIViaCEP.exe.config
+P:\Projetos .NET\RestSharp-ViaCEP\RestSharp-e-CSharp\ConsultaAPIViaCEP\bin\Debug\ConsultaAPIViaCEP.exe
+P:\Projetos .NET\RestSharp-ViaCEP\RestSharp-e-CSharp\ConsultaAPIViaCEP\bin\Debug\ConsultaAPIViaCEP.pdb
+P:\Projetos .NET\RestSharp-ViaCEP\RestSharp-e-CSharp\ConsultaAPIViaCEP\bin\Debug\RestSharp.dll
+P:\Projetos .NET\RestSharp-ViaCEP\RestSharp-e-CSharp\ConsultaAPIViaCEP\bin\Debug\RestSharp.xml
+P:\Projetos .NET\RestSharp-ViaCEP\RestSharp-e-CSharp\ConsultaAPIViaCEP\obj\Debug\ConsultaAPIViaCEP.csprojAssemblyReference.cache
+P:\Projetos .NET\RestSharp-ViaCEP\RestSharp-e-CSharp\ConsultaAPIViaCEP\obj\Debug\ConsultaAPIViaCEP.FrmMain.resources
+P:\Projetos .NET\RestSharp-ViaCEP\RestSharp-e-CSharp\ConsultaAPIViaCEP\obj\Debug\ConsultaAPIViaCEP.Properties.Resources.resources
+P:\Projetos .NET\RestSharp-ViaCEP\RestSharp-e-CSharp\ConsultaAPIViaCEP\obj\Debug\ConsultaAPIViaCEP.csproj.GenerateResource.cache
+P:\Projetos .NET\RestSharp-ViaCEP\RestSharp-e-CSharp\ConsultaAPIViaCEP\obj\Debug\ConsultaAPIViaCEP.csproj.CoreCompileInputs.cache
+P:\Projetos .NET\RestSharp-ViaCEP\RestSharp-e-CSharp\ConsultaAPIViaCEP\obj\Debug\ConsultaAPIViaCEP.csproj.CopyComplete
+P:\Projetos .NET\RestSharp-ViaCEP\RestSharp-e-CSharp\ConsultaAPIViaCEP\obj\Debug\ConsultaAPIViaCEP.exe
+P:\Projetos .NET\RestSharp-ViaCEP\RestSharp-e-CSharp\ConsultaAPIViaCEP\obj\Debug\ConsultaAPIViaCEP.pdb
